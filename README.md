@@ -1,8 +1,8 @@
-### PEOPLE COUNTER
+### PASSENGER COUNTING
 
-This is investigation prototype of application, which main goal is to count number of people that enter and leave some area
+This is investigation prototype of application, which main goal is to count number of passengers that travel in  a bus journey from point A to point B and also showing the current number of passengers in a bus.
 
-Started 28.08.2018
+Started 02.05.2020
 
 ### Local setup
 *Create a local virtual python environment*
